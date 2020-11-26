@@ -50,7 +50,7 @@ async function hitLink(req: Request, res: Response){
         res.json(link);
     }  
  }
-
+//
 export default{
     postLink,
     getLink,
